@@ -1,9 +1,0 @@
-config:
-  trial: 5
-  propertiesFiles:
-    prop1:
-      name: wallet
-      lang: en
-    prop2:
-      name: foo
-      lang: en
