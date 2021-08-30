@@ -1,1 +1,1 @@
-test success
+{"test": test success}
